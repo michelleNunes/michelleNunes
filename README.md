@@ -7,7 +7,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/michelleNunes)](https://github.com/michelleNunes)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michellenunesoliveira)](https://www.linkedin.com/in/michellenunesoliveira)
-![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=michelle.n.oliveira@hotmail.com.br)
+![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:michelle.n.oliveira@hotmail.com.br)
 
 :computer: I'm Software Developer!
 
@@ -18,7 +18,7 @@
 ### Language and Tools
 
 [![michelleNunes GitHub stats](https://github-readme-stats.vercel.app/api?username=michelleNunes&theme=dracula&show_icons=true)](https://github.com/michelleNunes/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelleNunes&layout=compact&theme=dracula)](https://github.com/michelleNunes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelleNunes&layout=compact&theme=dracula&langs_count=8)](https://github.com/michelleNunes/github-readme-stats)
 
 
 <code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
