@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=michellenunes&label=Profile%20views&color=6a0cc2&style=flat" alt="michellenunes" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=michelleNunes&label=Profile%20views&color=6a0cc2&style=flat" alt="michelleNunes" /> </p>
 
 # Hi 👋, I'm Michelle! =D
 
