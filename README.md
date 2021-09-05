@@ -1,13 +1,13 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=michellenunes&label=Profile%20views&color=6a0cc2&style=flat" alt="michellenunes" /> </p>
 
-
-# Hi, I'm Michelle! =D
+# Hi 👋, I'm Michelle! =D
 
 
 ### About me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/michelleNunes)](https://github.com/michelleNunes)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michellenunesoliveira)](https://www.linkedin.com/in/michellenunesoliveira)
-![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:michelle.n.oliveira@hotmail.com.br)
+![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:michelle.n.oliveira@hotmail.com.br)
 
 :computer: I'm Software Developer!
 
