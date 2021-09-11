@@ -97,11 +97,15 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  [![michelleNunes GitHub stats](https://github-readme-stats.vercel.app/api?username=michelleNunes&theme=dracula&show_icons=true)](https://github.com/michelleNunes/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelleNunes&layout=compact&theme=dracula&langs_count=8)](https://github.com/michelleNunes/github-readme-stats)
-
-
+  [![michelleNunes GitHub stats](https://github-readme-stats.vercel.app/api?username=michelleNunes&theme=dracula&show_icons=true&hide_border=true)](https://github.com/michelleNunes/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelleNunes&layout=compact&theme=dracula&langs_count=8&hide_border=true)](https://github.com/michelleNunes/github-readme-stats)
  
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+## 🔥 Streak stats
+ 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michellenunes&theme=dracula&hide_border=true" alt="michellenunes" /></p>
+<p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p> 
   
 
 
